@@ -1,0 +1,10 @@
+C:\Users\Franc\Desktop\Code C#\Visual Studio Pro 2015\InDEV\InDEV\bin\Debug\InDEV.exe.config
+C:\Users\Franc\Desktop\Code C#\Visual Studio Pro 2015\InDEV\InDEV\bin\Debug\InDEV.exe
+C:\Users\Franc\Desktop\Code C#\Visual Studio Pro 2015\InDEV\InDEV\bin\Debug\InDEV.pdb
+C:\Users\Franc\Desktop\Code C#\Visual Studio Pro 2015\InDEV\InDEV\obj\Debug\InDEV.csprojResolveAssemblyReference.cache
+C:\Users\Franc\Desktop\Code C#\Visual Studio Pro 2015\InDEV\InDEV\obj\Debug\InDEV.Form1.resources
+C:\Users\Franc\Desktop\Code C#\Visual Studio Pro 2015\InDEV\InDEV\obj\Debug\InDEV.Properties.Resources.resources
+C:\Users\Franc\Desktop\Code C#\Visual Studio Pro 2015\InDEV\InDEV\obj\Debug\InDEV.csproj.GenerateResource.Cache
+C:\Users\Franc\Desktop\Code C#\Visual Studio Pro 2015\InDEV\InDEV\obj\Debug\InDEV.exe
+C:\Users\Franc\Desktop\Code C#\Visual Studio Pro 2015\InDEV\InDEV\obj\Debug\InDEV.pdb
+C:\Users\Franc\Desktop\Code C#\Visual Studio Pro 2015\InDEV\InDEV\obj\Debug\InDEV.Form2.resources
