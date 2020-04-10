@@ -10,3 +10,9 @@ C:\Users\Franc\Desktop\Code C#\Visual Studio Pro 2015\Joystick Test\Joystick Tes
 C:\Users\Franc\Documents\Storage GitHub\OffSeason-Experimental\2020\C#\Joystick Test\Joystick Test\bin\Debug\Joystick Test.exe.config
 C:\Users\Franc\Documents\Storage GitHub\OffSeason-Experimental\2020\C#\Joystick Test\Joystick Test\obj\Debug\Joystick Test.exe
 C:\Users\Franc\Documents\Storage GitHub\OffSeason-Experimental\2020\C#\Joystick Test\Joystick Test\obj\Debug\Joystick Test.pdb
+C:\Users\Franc\Documents\Storage GitHub\OffSeason-Experimental\2020\C#\Joystick Test\Joystick Test\bin\Debug\Joystick Test.exe
+C:\Users\Franc\Documents\Storage GitHub\OffSeason-Experimental\2020\C#\Joystick Test\Joystick Test\bin\Debug\Joystick Test.pdb
+C:\Users\Franc\Documents\Storage GitHub\OffSeason-Experimental\2020\C#\Joystick Test\Joystick Test\obj\Debug\Joystick Test.csprojResolveAssemblyReference.cache
+C:\Users\Franc\Documents\Storage GitHub\OffSeason-Experimental\2020\C#\Joystick Test\Joystick Test\obj\Debug\Joystick_Test.Form1.resources
+C:\Users\Franc\Documents\Storage GitHub\OffSeason-Experimental\2020\C#\Joystick Test\Joystick Test\obj\Debug\Joystick_Test.Properties.Resources.resources
+C:\Users\Franc\Documents\Storage GitHub\OffSeason-Experimental\2020\C#\Joystick Test\Joystick Test\obj\Debug\Joystick Test.csproj.GenerateResource.Cache
